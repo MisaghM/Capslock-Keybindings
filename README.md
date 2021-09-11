@@ -5,8 +5,8 @@
   - [About](#about)
   - [Keybindings](#keybindings)
   - [Windows](#windows)
-    - [Additional hotkeys](#additional-hotkeys)
-    - [Automatic startup](#automatic-startup)
+    - [Additional Hotkeys](#additional-hotkeys)
+    - [Automatic Startup](#automatic-startup)
   - [Linux](#linux)
     - [Notes](#notes)
       - [Ubuntu](#ubuntu)
@@ -32,12 +32,12 @@ As well as all the combinations with ctrl/shift/alt.
 The [script](Autohotkey/CapsKeybinds.ahk) is in the *Autohotkey* folder and requires **[Autohotkey](https://www.autohotkey.com)** to run.  
 You can also get a compiled exe in the [releases](releases/) section.  
   
-### Additional hotkeys
+### Additional Hotkeys
 
 - `Caps + T`: open/focus cmd.
 - `Win + '`: suspend/unsuspend the hotkeys.
 
-### Automatic startup
+### Automatic Startup
 
 To automatically start the script at login, open **Run** (win + r) and write `shell:startup`, then copy a shortcut of the file there.  
   
