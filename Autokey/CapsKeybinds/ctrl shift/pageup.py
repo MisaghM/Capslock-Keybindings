@@ -1,0 +1,1 @@
+keyboard.send_keys("<ctrl>+<shift>+<page_up>")
