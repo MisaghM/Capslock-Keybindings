@@ -29,7 +29,7 @@ As well as all the combinations with ctrl/shift/alt.
 
 ## Windows
 
-The [script](Autohotkey/CapsKeybinds.ahk) is in the *Autohotkey* folder and requires **[Autohotkey](https://www.autohotkey.com)** to run.  
+The [script](Autohotkey/CapsKeybinds.ahk) is in the *Autohotkey* folder and requires **[Autohotkey](https://www.autohotkey.com)** (v1) to run.  
 You can also get a compiled exe in the [releases](releases/) section.  
   
 ### Additional Hotkeys
