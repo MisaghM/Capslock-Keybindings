@@ -17,6 +17,8 @@ This is my preferred custom set of keybindings to make use of the capslock and r
 
 ## Keybindings
 
+Method 1:
+
 | Caps +  | Result             |
 | ------- | ------------------ |
 | J K L I | ← ↓ → ↑            |
@@ -25,11 +27,22 @@ This is my preferred custom set of keybindings to make use of the capslock and r
 | D F     | PageUp / PageDown  |
 | M       | Escape             |
 
+
+Method 2:
+
+| Caps +  | Result             |
+| ------- | ------------------ |
+| H J K L | ← ↑ ↓ →            |
+| Y O     | Home / End         |
+| U I     | Backspace / Delete |
+| D F     | PageUp / PageDown  |
+| ;       | Escape             |
+
 As well as all the combinations with ctrl/shift/alt.
 
 ## Windows
 
-The [script](Autohotkey/CapsKeybinds.ahk) is in the *Autohotkey* folder and requires **[Autohotkey](https://www.autohotkey.com)** (v1) to run.  
+The [Method 1 Script](Autohotkey/CapsKeybinds.ahk) and [Method 2 Script](Autohotkey/CapsKeybinds-vim.ahk) is in the *Autohotkey* folder and requires **[Autohotkey](https://www.autohotkey.com)** (v1) to run. Also their respective Autohotkey v2 can be found in the same folder.  
 You can also get a compiled exe in the [releases](releases/) section.  
   
 ### Additional Hotkeys
